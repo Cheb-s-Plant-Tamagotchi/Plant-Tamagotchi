@@ -1,6 +1,7 @@
 # Plant-Tamagotchi
 ## Description
 A Tamagotchi-inspired, Arduino-powered device that displays different animations based on soil moisture.
+<img width="260" height="462" alt="aqu2n0" src="https://github.com/user-attachments/assets/45fdaab7-e0ed-473d-abfc-011be673b337" />
 
 ## How To Run
 ### Adding Animations
