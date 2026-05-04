@@ -1,6 +1,11 @@
+# Hardware Used
 [Waveshare LCD](https://www.waveshare.com/1.69inch-lcd-module.htm?srsltid=AfmBOoo7mXKt6vzYOUNaFL6VLysWpsry3GKb-QGHiu6P8QHQQ5FiiGEe)
 
 [Soil Sensor](https://www.amazon.com/Stemedu-Capacitive-Corrosion-Resistant-Electronic/dp/B0BTHL6M19/ref=sr_1_1?crid=1JP6ATYFTZKWI&dib=eyJ2IjoiMSJ9.9IR3ozVRntgCaVDI4vyOcIz4subl5o2GOX4ntba5eVyhjp8-WCqgizekZDhEnlhAlrOL7SDZYPhIN03QlKJ083hHzZDk1aytVtEVlRRL7GlWIIf6vCFHlB_lWZMTrjhnxt_G-lc-TQx4X3kKUdf05Dj0yAr6y8zIh98EjyqTHyIoEZkhj241-oaOmjkIMbcqMu7OL2lw27Bem8s9TTCOMAySU-xop2uvYmUhecmtlJgvzY6kXs45WfHNxOBs3C_e2el047tmf6sG7HS3qLmSxXpTELQd53iLYLWHA5OdGNk.sDhRCHGHG4BU8OfxhNz5uRCgWe2ABglu5bx0P9gJllY&dib_tag=se&keywords=capacitive+soil+moisture+sensor+v1.2&qid=1777868012&sprefix=capacitive+soil+%2Caps%2C209&sr=8-1)
 
 [Arduino](amazon.com/LUIRSAY-2Pcs-ATmega328P-Microcontroller-Compatible/dp/B0F1FQMNXM/ref=sr_1_1?crid=1LGFHPCWR0KFL&dib=eyJ2IjoiMSJ9.87rL5d9ziJpvx7A3OM0Cu8tqT2oRtwroDCO2-jHie3NamOG4ETRMBi9LvhRN3bDnJvONluvROBRea8i1GcKK5_9m9GqeWAHeoagxI5hBbjVUI2DGtfZET56CY-2Jo8hM7kdDaQL7P0fAkNSE5OyvpjeHg45y-goaohiJC52P-k6RARNLd4Nrw0oHvI-K14YFWvkij7PcRJIzWlfC1k84GzJdQBK7r-xCJQ8s1n-KGsQ.LZs4yRcKEv85_56nR8kUPx3dztrz3mVj4rHD2TRJoY0&dib_tag=se&keywords=arduino+nano&qid=1777868270&sprefix=arduino+nano%2Caps%2C260&sr=8-1)
 
+
+Note misc wires needed.
+
+Optional external power supply.
